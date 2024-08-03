@@ -1,7 +1,7 @@
 <h1>Projeto Cordel</h1><br>
 
 <h2>Descrição</h2>
-<p>Neste projeto, utilizei as linguagens 'HTML', 'CSS' e para criar uma página de um site sobre um cordel utilizando 'Media Query'.</p><br>
+<p>Neste projeto, utilizei as linguagens 'HTML' e 'CSS' para criar uma página de um site sobre um cordel utilizando 'Media Query'.</p><br>
 
 <h2>Funcionalidades</h2>
 <ul>
